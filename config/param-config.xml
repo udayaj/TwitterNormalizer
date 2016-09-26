@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <word-normalizer>
+        <rows-read>100</rows-read>        
+    </word-normalizer>
+</configuration>

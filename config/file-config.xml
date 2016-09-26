@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <word-normalizer>
+        <normalization-dic>************/Normalizer/src/dic/orth.en.csv</normalization-dic>
+    </word-normalizer>
+</configuration>
